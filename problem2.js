@@ -9,3 +9,5 @@ function lastCar(data){
        return data[data.length-1];
     } 
 }
+
+module.exports=lastCar;
